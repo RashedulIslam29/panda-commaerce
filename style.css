@@ -1,7 +1,10 @@
 .container{
-    padding-bottom: 100px;
+    padding-bottom: 60px;
 }
 
+.navbar-padding{
+    padding-bottom: 60px;
+}
 .pink-bg{
     background-color: #fceae8;
     border-radius: 10px;
@@ -12,7 +15,7 @@
 .price{
     color: #ff136f;
 }
-.bye-button{
+.buy-button{
     background-color: #ff136f;
     color: white;
     border: none;
@@ -39,4 +42,25 @@
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightslategray;
+}
+#contact{
+    height: 300px;
+}
+.contact-area{
+    padding-bottom: 10px ;
+}
+.submit-button{
+    margin-top: 10px;
+}
+
+.chng-color{
+    color: gray;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
+.sticky-lg-top{
+    position: sticky;
+
 }
