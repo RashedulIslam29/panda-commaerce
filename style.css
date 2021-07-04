@@ -2,8 +2,6 @@
     padding-bottom: 100px;
 }
 
-
-
 .pink-bg{
     background-color: #fceae8;
     border-radius: 10px;
@@ -20,4 +18,25 @@
     border: none;
     padding: 10px 20px;
     border-radius: 10px;
+}
+.cat-1{
+    background-color: rgb(173, 187, 185);
+}
+.cat-2{
+    background-color: #F4D35E;
+}
+.cat-3{
+    background-color: wheat;
+}
+.cat-1 , .cat-2 , .cat-3 {
+    padding: 10px 30px ;
+    border-radius: 10px;
+}
+.categories h1{
+    color: white;
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
 }
